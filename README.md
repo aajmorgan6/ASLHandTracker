@@ -7,3 +7,5 @@ To run other file, cvPyTorch.py, nned to install sklearn, numpy, torch, matplotl
 python3 cvPyTorch.py
 ```
 to see results. Will first train model, show a training curve, then will activate the camera and look to detect hands and output the letter.
+
+Make sure the .npy files are in the same directory as cvPyTorch.py, then run from that directory.
